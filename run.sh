@@ -5,7 +5,7 @@ sudo apt install dbus notification-daemon -y
 sudo apt install xdotool -y
 sudo wget -c https://s3.live.divera247.de/public/software/monitor/DIVERA247-Monitor-1.1.4-arm64.AppImage
 mv DIVERA247-Monitor-1.1.4-arm64.AppImage Monitor.AppImage
-sudo chmod a+x /DIVERA247-Monitor-1.1.4-arm64.AppImage
+sudo chmod a+x /Monitor.AppImage
 
 echo "[D-BUS Service]
 Name=org.freedesktop.Notifications
