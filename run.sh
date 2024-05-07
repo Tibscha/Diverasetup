@@ -16,4 +16,4 @@ mkdir -p ~/.config/autostart
 
 echo "[Desktop Entry]
 Type=Application
-Exec=/Pfad/Zum/Monitor.AppImage"
+Exec=/home/raspi/Monitor.AppImage"
